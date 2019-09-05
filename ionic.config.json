@@ -1,0 +1,14 @@
+{
+  "name": "safe_place_ni",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "proxies": [
+    {
+      "path": "/tabs/tab1",
+      "proxyUrl": "http://spni.epicalesoft.com/places_js"
+    }
+  ],
+  "id": "281c2be8"
+}
